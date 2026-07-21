@@ -1,0 +1,203 @@
+{ 
+    "site":{ 
+        "title": "span — Une approche systémique pour accélérer l'innovation complexe" 
+    },
+    
+    "configparam":{
+        "lang1": "EN",
+        "lang2": "FR"
+    },
+    
+    "menu":{
+        "home": "Accueil", 
+        "why": "Span", 
+        "approach": "Approche", 
+        "about": "À propos", 
+        "whom": "Pour qui", 
+        "contact": "Échangeons"
+    }, 
+    
+    "hero":{ 
+        "title": "Une approche systémique pour accélérer l'innovation complexe", 
+        "subtitle_part1": "Connecter les expertises", 
+        "subtitle_part2": "pour", 
+        "subtitle_part3": "accélérer", 
+        "subtitle_part4": "l'innovation, de la MedTech aux systèmes industriels complexes.", 
+        "text_part1": "span", 
+        "text_part2": "fédère les expertises techniques, d'ingénierie, réglementaires, data et d'accès au marché au sein d'un système intégré, afin que votre projet progresse naturellement du besoin jusqu'au résultat.", 
+        "button1": "Découvrez mon approche", 
+        "button2": "Parlons de votre projet" 
+    }, 
+    
+    "why":{ 
+        "title": "Pourquoi SPAN", 
+        "subtitle1": "Les projets complexes échouent rarement par manque d'expertise ou d'innovation", 
+        "text1_part1": "J'entends souvent :", 
+        "text1_part2": "Nous avons une bonne technologie, mais pas de feuille de route claire.", 
+        "text1_part3": "Notre équipe R&D est débordée.", 
+        "text1_part4": "Le développement prend du retard.", 
+        "text1_part5": "Le fondateur gère tout seul.", 
+        "text1_part6": "Nous préparons une levée de fonds et avons besoin d'un plan crédible.", 
+        "text1_part7": "Il nous manque un CTO expérimenté, mais nous ne pouvons pas en recruter un à temps plein.", 
+        "text1_part8": "Nous avons besoin d'une meilleure coordination de projet, mais recruter un chef de projet à temps plein n'est pas encore réaliste.", 
+        "text1_part9": "Cela vous parle ?", 
+        "text1_part10": "Ces symptômes renvoient généralement à une même cause profonde : des frictions aux interfaces entre les disciplines. C'est particulièrement vrai dans les environnements réglementés à forts enjeux comme la MedTech, où les idées et les technologies sont solides, mais où les difficultés apparaissent souvent dans :", 
+        "text1_part11": "Le positionnement marché,", 
+        "text1_part12": "La coordination transverse, génératrice de retards et de risques projet,", 
+        "text1_part13": "L'anticipation réglementaire,", 
+        "text1_part14": "Le manque de ressources pour mettre en œuvre des pratiques avancées d'ingénierie système, ralentissant le développement,", 
+        "text1_part15": "La mise en place de processus évolutifs.", 
+        "subtitle2": "Trois leviers — Un seul résultat", 
+        "text2_part1": "span", 
+        "text2_part2": "aide vos équipes à relier ces interfaces afin d'accélérer les décisions, de rendre les risques visibles et d'éviter les pertes d'information entre la stratégie, l'ingénierie, le clinique, la qualité et les affaires réglementaires.", 
+        "card1_title": "CONNECTER", 
+        "card1_text": "Relier les personnes, les compétences, les données et les disciplines autour d'une compréhension commune du produit afin de créer des synergies durables.", 
+        "card2_title": "OPTIMISER", 
+        "card2_text": "Structurer les décisions et réduire les risques grâce à une véritable vision systémique du projet.", 
+        "card3_title": "VALORISER", 
+        "card3_text": "Maximiser la valeur opérationnelle, économique et, lorsque pertinent, clinique de votre innovation." 
+    }, 
+    
+    "approach":{ 
+        "title": "Mon approche : une démarche systémique à chaque étape", 
+        "subtitle": "Relier les disciplines", 
+        "text1_part1": "Transformer une innovation en un système robuste, conforme et prêt pour le marché nécessite une ingénierie structurée, une gouvernance claire et une excellence opérationnelle. L'alignement entre technologie, produit et marché est essentiel.", 
+        "text1_part2": "span", 
+        "text1_part3": "apporte une expertise technique complémentaire à travers des solutions adaptées.", 
+        "network_intro1": "Explorez le canva", 
+        "network_intro2": "Survolez ou sélectionnez un nœud pour découvrir comment chaque discipline s'intègre dans l'approche systémique de span.", 
+        "node1_title": "IDÉATION & RECHERCHE", 
+        "node1_subtitle": "IDÉATION & RECHERCHE", 
+        "node1_text1_title": "Accompagnement", 
+        "node1_text1_items": [ 
+            "Veille technologique et analyse concurrentielle", 
+            "Analyse des besoins des utilisateurs et des parties prenantes", 
+            "Ateliers d'idéation et d'innovation", 
+            "Identification de partenaires cliniques" 
+        ], 
+        "node1_text2_title": "Résultats obtenus", 
+        "node1_text2_items": [ 
+            "Renforcement de l'engagement client", 
+            "Un positionnement marché plus clair", 
+            "Innovation et technologies de pointe" 
+        ], 
+        "node2_title": "STRATÉGIE", 
+        "node2_subtitle": "STRATÉGIE", 
+        "node2_text1_title": "Accompagnement", 
+        "node2_text1_items": [ 
+            "Appui à la stratégie réglementaire et aux affaires cliniques", 
+            "Contribution à la stratégie de vérification et validation", 
+            "Ateliers stratégiques", 
+            "Processus R&D pour soutenir le système de management de la qualité" 
+        ], 
+        "node2_text2_title": "Résultats obtenus", 
+        "node2_text2_items": [ 
+            "Amélioration de l'accès au marché", 
+            "Niveau de preuve préclinique et clinique renforcé", 
+            "Processus robustes et évolutifs" 
+        ], 
+        "node3_title": "CONCEPTION & DÉVELOPPEMENT", 
+        "node3_subtitle": "CONCEPTION & DÉVELOPPEMENT", 
+        "node3_text1_title": "Accompagnement", 
+        "node3_text1_items":[ 
+            "Accompagnement dans la définition et le périmètre de preuve de concept (PoC), de prototype ou de MVP (approche QQOQCCP, etc.)", 
+            "Audit technique", 
+            "Revue de la documentation technique", 
+            "Analyse des risques" 
+        ], 
+        "node3_text2_title": "Résultats obtenus", 
+        "node3_text2_items": [ 
+            "Satisfaction client", 
+            "Position concurrentielle solide", 
+            "Sécurité des patients", 
+            "Qualité du produit" 
+        ], 
+        "node4_title": "ORGANISATION", 
+        "node4_subtitle": "ORGANISATION", 
+        "node4_text1_title": "Accompagnement", 
+        "node4_text1_items":[ 
+            "Alignement des équipes et accompagnement de la gouvernance", 
+            "Coordination des sous-traitants et partenaires", 
+            "Gestion de projet transverse et outils logiciels", 
+            "Intégration : plan projet, gouvernance, etc.", 
+            "Structuration du cycle de vie produit" 
+        ], 
+        "node4_text2_title": "Résultats obtenus", 
+        "node4_text2_items":[ 
+            "Amélioration de l'efficacité des projets", 
+            "Communication plus fluide", 
+            "Engagement renforcé des équipes"
+        ] 
+    }, 
+        
+    "about":{ 
+        "title": "À propos", 
+        "subtitle": "Qui se cache derrière span ?", 
+        "text_part1": "Après plus de 20 ans dans le développement de dispositifs médicaux, j'ai constaté que les projets en difficulté ne manquaient généralement pas d'expertise, mais de connexions entre les expertises.", 
+        "text_part2a": "J'ai créé ", 
+        "text_part2b": "span", 
+        "text_part2c": "pour rendre ces connexions explicites : réunir les bonnes personnes et la bonne structure au bon moment afin que les équipes avancent plus vite et avec davantage de confiance.", 
+        "text_part3": "Aujourd'hui, je souhaite appliquer cette même approche systémique au-delà de la santé, aux technologies environnementales, durables et aux systèmes industriels, avec le même niveau d'exigence et d'engagement.", 
+        "text_part4": "La vision est simple : tout projet complexe devrait bénéficier d'une véritable approche systémique, du besoin jusqu'au résultat.", 
+        "sign_part1a": "Jennifer OUDRY, ", 
+        "sign_part1b": "Ing. / M.Sc. / PhD.", 
+        "sign_part1c": "Responsable R&D Fractional | Partenaire en pensée systémique | Innovation en MedTech et systèmes complexes", 
+        "sign_part1d": "Certification RS6099 | PMP® – Formation validée, examen en attente", 
+        "val_part1a": "Mes valeurs : ", 
+        "val_part1b": "Intégrité, transparence, rigueur, curiosité scientifique, positivité." 
+    }, 
+            
+    "whom":{ 
+        "title": "Pour qui ?", 
+        "text_part1": "Un accompagnement sur mesure destiné aux start-ups technologiques, PME et acteurs souhaitant accélérer l'innovation et développer durablement leurs équipes et leurs produits.", 
+        "text_part2a": "Secteurs technologiques clés : ", 
+        "text_part2b": "MedTech, HealthTech, FemTech, SportTech, SportMed ainsi que les industries complexes et réglementées, notamment les technologies environnementales, durables et les systèmes industriels.", 
+        "text_part3a": "Également ouvert à : ", 
+        "text_part3b": "Toute industrie complexe et réglementée confrontée aux mêmes défis systémiques.", 
+        "text_part4a": "Expertises : ", 
+        "text_part4b": "Ultrasons médicaux, systèmes embarqués complexes et critiques, IoT, intelligence artificielle, biomonitoring, biomécanique, avec une expertise transférable en ingénierie système, intégration et gouvernance transverse.", 
+        "text_part5a": "Zone d'intervention : ", 
+        "text_part5b": "Basé à Toulouse (France) — interventions sur site en France et en Europe ou à distance." 
+    }, 
+        
+    "cta":{ 
+        "title": "Échangeons autour de votre prochain projet complexe.", 
+        "subtitle_part1a": "Que vous soyez au stade du concept ou en phase de validation, ", 
+        "subtitle_part1b": "span ", 
+        "subtitle_part1c": "vous aide à relier les noeuds.", 
+        "act_step1": "Planifions un échange", 
+        "act_step2": "Présentez-moi votre entreprise et vos besoins", 
+        "act_step3": "Co-construisons la mission", 
+        "act_step4": "Mettons en œuvre, déployons et évaluons" 
+    }, 
+
+    "contact":{
+        "name": "Jennifer Oudry",
+        "email": "spansys.consulting@gmail.com",
+        "mailto": "mailto: spansys.consulting@gmail.com",
+        "linkedin": "www.linkedin.com/in/jennifer-oudry"
+    },
+
+    "footer":{ 
+        "legalnotice": "Mentions légales", 
+        "policy": "Politique de confidentialité",       
+        "copy": "© 2026 SPAN. Tous droits réservés. Toute reproduction est interdite sans autorisation." 
+    },
+    
+    "legalnotice":{
+        "title": "Mentions légales",
+        "publisher_part1a": "Ce site est édité par ", 
+        "publisher_part1b": "span.",
+        "contact": "Contact: span-consulting@gmail.com",
+        "owner_part1a": "Éditeur du site: ",
+        "owner_part1b": "span",
+        "provider": "Hébergeur: GitHub Pages",
+        "copy": "Sauf mention contraire, l'ensemble des contenus présents sur ce site (textes, images, icônes, éléments graphiques et logo) est protégé par le droit d'auteur."
+    },
+
+    "policy":{
+        "title": "Politique de confidentialité",
+        "text_part1": "Ce site internet ne collecte, ne stocke ni ne traite aucune donnée à caractère personnel concernant ses visiteurs. Il n'utilise ni formulaire de contact, ni service d'analyse d'audience, ni cookies non essentiels.",
+        "text_part2": "Les seules informations susceptibles d'être traitées sont les données techniques générées automatiquement par l'infrastructure d'hébergement (telles que les journaux du serveur, les adresses IP et les horodatages des accès). Ces informations sont utilisées exclusivement pour assurer la sécurité, le bon fonctionnement et la maintenance du site. Elles ne sont en aucun cas exploitées afin d'identifier les visiteurs individuellement."
+    }
+}

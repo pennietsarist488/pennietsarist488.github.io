@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en" class="no-js">
+
+<!-- ========= CONFIGURATION ========= -->
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="robots" content="noindex, nofollow">
+  <title data-i18n="site.title"></title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="../css/style.css">
+  <noscript><style>.reveal{opacity:1 !important; transform:none !important;}</style></noscript>
+</head>
+
+<!-- ========= BODY ========= -->
+<body>
+
+  <!-- ---------- Header ---------- -->
+  <header>
+    <nav class="nav">
+      <a href="../index.html" class="nav-logo" aria-label="span home">
+        <img src="../images/logo_square_only.svg" alt="Logo Span">
+      </a>
+      <button class="nav-toggle" id="navToggle" aria-label="Toggle menu"></button>
+      <ul class="nav-links" id="navLinks">
+        <li><a href="../index.html" data-i18n="menu.home"></a></li>   
+      </ul>
+      <div class="lang-switch">
+        <button data-lang="fr" data-i18n="configparam.lang2"></button>
+        <button data-lang="en" data-i18n="configparam.lang1"></button>
+      </div>
+    </nav>
+  </header>
+
+  <!-- ---------- Main ---------- -->
+  <main>
+    
+    <section class="hero" style="background:#fff;padding-top:30px;">
+    </section>
+      
+    <section class="legalnotice" style="background:#fff">
+      <div class="container">
+        <div class="reveal in">
+          <span class="eyebrow" data-i18n="legalnotice.title"></span>
+          <p>
+            <span data-i18n="legalnotice.publisher_part1a"></span> 
+            <span class="highlight" data-i18n="legalnotice.publisher_part1b"></span>
+            <span><br></span>
+          </p>
+          <p data-i18n="legalnotice.contact"></p>
+          <p>
+            <span data-i18n="legalnotice.owner_part1a"></span> 
+            <span class="highlight" data-i18n="legalnotice.owner_part1b"></span>
+          </p>
+          <p data-i18n="legalnotice.provider"></p>
+          <p data-i18n="legalnotice.copy"></p>   
+          <p><br></p>
+        </div>
+      </div>
+    </section>
+    
+    <!-- ---- divider ---- -->
+    <div class="divider" style="background:#fff">
+      <svg viewBox="0 0 1200 60" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg">
+        <path d="M0 30 Q 300 5 600 30 T 1200 30" stroke="#1AA7A1" stroke-width="1" fill="none" stroke-dasharray="4 6"/>
+      </svg>
+    </div>
+    
+    <section class="legalnotice" style="background:#fff">
+      <div class="container" style="background:#fff">
+        <div class="reveal in">
+          <span class="eyebrow" data-i18n="policy.title"></span>
+          <p data-i18n="policy.text_part1"></p>
+          <p data-i18n="policy.text_part2"></p>
+        </div>      
+        <p><br><br></p>      
+      </div>
+    </section>
+
+  </main>
+
+  <!-- ---------- Footer ---------- -->
+  <footer>
+    <div class="container footer-grid">
+      <div class="footer-logo">
+        <img src="../images/logo_square_only.svg" alt="Logo Span">
+      </div>
+      <ul class="footer-links">      
+        <li><a href="../index.html" data-i18n="menu.home"></a></li>
+      </ul>
+      <div class="footer-copy" data-i18n="footer.copy"></div>
+    </div>  
+  </footer>
+
+  <!-- ---------- Script ---------- -->
+  <script src="../js/i18n.js"></script>
+  <script type="module" src="../js/main.js"> </script>
+
+</body>
+</html>

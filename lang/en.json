@@ -1,0 +1,205 @@
+{
+    "site": {
+        "title": "span — Systems Thinking for Complex Innovation"
+    },
+
+    "configparam":{
+        "lang1": "EN",
+        "lang2": "FR"
+    },
+
+    "menu": {
+        "home": "Home",
+        "why": "Span",
+        "approach": "Approach",
+        "about": "About",
+        "whom": "For whom",
+        "contact": "Let's talk"
+    },
+    
+    "hero": {
+        "title": "Systems Thinking for Complex Innovation",
+        "subtitle_part1": "Connecting expertise",
+        "subtitle_part2": "to",
+        "subtitle_part3": "accelerate",
+        "subtitle_part4": "innovation from MedTech to complex industrial systems.",
+        "text_part1": "span",
+        "text_part2": "links technical, engineering, regulatory, data and market-access expertise into one connected system; so your project moves from need to outcome with less friction.",
+        "button1": "Discover my approach",
+        "button2": "Talk about your project"
+    },
+
+    "why":{
+        "title": "Why SPAN",
+        "subtitle1": "Complex projects rarely fail from lack of expertise and innovation",
+        "text1_part1": "I often listen:",
+        "text1_part2": "We have good technology, but no clear roadmap.",
+        "text1_part3": "Our R&D team is overwhelmed.",
+        "text1_part4": "Development is falling behind schedule.",
+        "text1_part5": "The founder is handling everything alone.",
+        "text1_part6": "We're preparing a fundraising round and need a credible plan.",
+        "text1_part7": "We're missing an experienced CTO, but can't afford to hire one full-time.",
+        "text1_part8": "We need better project coordination, but hiring a full-time PM isn't realistic yet.",
+        "text1_part9": "Sound familiar? ",
+        "text1_part10": "These symptoms usually point to the same root cause: friction at the interfaces between disciplines. They fail at the interfaces between disciplines. This is especially true in high-stakes, regulated environments like MedTech, where ideas and technologies are strong, but challenges and bottlenecks often arise in:",
+        "text1_part11": "Market positioning,",
+        "text1_part12": "Cross-functional coordination causing delays and potential project risks,",
+        "text1_part13": "Regulatory anticipation,",
+        "text1_part14": "Limited resources for advanced systems engineering practices slowing development,",
+        "text1_part15": "Scalable process implementation.",
+        "subtitle2": "Three moves - One outcome",
+        "text2_part1": "span",
+        "text2_part2": "helps your teams connect those interfaces: so decisions move faster, risks stay visible, and nothing falls through the cracks between strategy, engineering, clinical, quality and regulatory.",
+        "card1_title": "JOIN",
+        "card1_text": "Connecting people, skills, data and disciplines around a shared understanding of the product to create lasting synergies.",
+        "card2_title": "OPTIMIZE",
+        "card2_text": "Structuring decisions and reducing risk through a genuine systems-level view of the project.",
+        "card3_title": "YIELD",
+        "card3_text": "Maximize the operational, economic and, where relevant, clinical value of your innovation."
+    },
+
+    "approach":{
+        "title": "My approach: systems thinking at every stage",
+        "subtitle": "Connect the disciplines",
+        "text1_part1": "Turning innovation into a robust, compliant, and market-ready system requires structured engineering, clear governance, and operational excellence. Alignment between technology, product and market is essential.",
+        "text1_part2": "span", 
+        "text1_part3": "provides additional technical expertise through complementary solutions.",
+        "network_intro1": "Explore the network",
+        "network_intro2": "Hover or focus on any node to learn how that discipline connects into span's systemic approach.",
+        "node1_title": "IDEATION & RESEARCH",
+        "node1_subtitle": "IDEATION & RESEARCH",
+        "node1_text1_title": "Key activities",
+        "node1_text1_items": [          
+            "Technology and competitive intelligence",
+            "User and stakeholder needs assessment",
+            "Ideation and innovation workshops",
+            "Clinical partner identification"
+        ],
+        "node1_text2_title": "Outcomes",
+        "node1_text2_items": [
+            "Enhancing customer engagement",
+            "Clearer market focus",
+            "Cutting-edge solutions"
+        ],
+        "node2_title": "STRATEGY",
+        "node2_subtitle": "STRATEGY",
+        "node2_text1_title": "Key activities",
+        "node2_text1_items": [          
+            "Regulatory strategy and clinical affairs support",
+            "Verification and Validation strategy",
+            "Strategy workshops",
+            "R&D processes to support quality management system"
+        ],
+        "node2_text2_title": "Outcomes",
+        "node2_text2_items": [
+            "Improvement of market access",
+		    "Preclinical and Clinical evidence",
+		    "Scalable processes"
+        ],
+        "node3_title": "CONCEPT & DESIGN DEVELOPMENT",
+        "node3_subtitle": "CONCEPT & DESIGN DEVELOPMENT",
+        "node3_text1_title": "Key activities",
+        "node3_text1_items": [          
+            "Accompaniement in the definition and perimeter of proof-of-concept (PoC) / prototype / MVP (5W1H approach, etc.)",
+            "Technical audit",
+            "Technical documentation review",
+            "Risk analysis"
+        ],
+        "node3_text2_title": "Outcomes",
+        "node3_text2_items": [
+            "Customer satisfaction",
+		    "Solid competitive position",
+		    "Patient safety",
+		    "Product quality"
+        ],
+        "node4_title": "ORGANIZATION",
+        "node4_subtitle": "ORGANIZATION",
+        "node4_text1_title": "Key activities",
+        "node4_text1_items": [          
+            "Team alignment and board consultation",
+		    "Subcontractors and partners coordination",
+		    "Transverse project management and software tool",
+		    "Integration: project plan, governance, etc.",
+		    "Product lifecycle structuring"
+        ],
+        "node4_text2_title": "Outcomes",
+        "node4_text2_items": [
+            "Improved project efficiency",
+		    "More effective communication",
+		    "Stronger team engagement"
+        ],
+        "nodecenter_title": "span"
+    },
+
+    "about":{
+        "title": "About",
+        "subtitle": "Who's behind span?",
+        "text_part1": "After 20+ years across medical devices development, I observe that projects stalled were rarely missing expertise, they were missing connections.",
+        "text_part2a": "I started ", 
+        "text_part2b": "span",
+        "text_part2c": "to make those connections explicit: bringing the right people and the right structure together at the right moment in a project's development, so teams can move faster and with more confidence.",
+        "text_part3": "Today, I am eager to bring this same systems approach beyond healthcare, to environmental, sustainability-driven, and industrial technologies, with the same rigor and commitment to meaningful outcomes. ",
+        "text_part4": "The vision is simple: every complex project should benefit from a genuine systems view, from need to outcome.",
+        "sign_part1a": "Jennifer OUDRY, ",
+        "sign_part1b": "Eng. / M.Sc. / PhD.", 
+        "sign_part1c": "Fractional R&D Leader | Systems Thinking Partner | Innovation across MedTech & Complex Systems", 
+        "sign_part1d": "RS6099 Certified | PMP® Certification – Training completed, exam pending",
+        "val_part1a": "My values: ",
+        "val_part1b": "Integrity, Transparence, Rigor, Scientific curiosity, Positivity."
+    },
+
+    "whom":{
+        "title": "For whom?",
+        "text_part1": "Consultancy tailored for Tech start-ups, Small and Medium-sized Enterprises (SMEs) and stakeholders looking to drive innovation and sustainable team and product growth.",
+        "text_part2a": "Core tech verticals: ",
+        "text_part2b": "MedTech, HealthTech, FemTech, SportTech, SportMed and complex, regulated industries more broadly, including environmental & sustainability-driven technologies and industrial systems. ",
+        "text_part3a": "Also open to: ",
+        "text_part3b": "Complex, regulated industries more broadly (environmental & sustainability-driven technologies, industrial systems) wherever the same systemic challenges apply. ",
+        "text_part4a": "Field of expertise: ",
+        "text_part4b": "Medical ultrasound, Complex and critical embedded systems, IoT, AI technologies, Biomonitoring, Biomechanics — with transferable expertise in systems engineering & integration, cross-functional governance, applicable wherever systems are complex and stakes are high. ",
+        "text_part5a": "Where I operate: ",
+        "text_part5b": "Based in Toulouse, France — available on-site across France and Europe, or remotely."
+    },
+
+    "cta":{
+        "title": "Let's talk about your next complex project.",
+        "subtitle_part1a": "Whether you're at the concept stage or heading toward validation, ",
+        "subtitle_part1b": "span ",
+        "subtitle_part1c": "can help connect the dots.",
+        "act_step1": "Schedule a call",
+        "act_step2": "Share your company details and needs",
+        "act_step3": "Ideate and build the mission",
+        "act_step4": "Execute, deploy and assess"
+    },
+    
+    "contact":{
+        "name": "Jennifer Oudry",
+        "email": "spansys.consulting@gmail.com",
+        "mailto": "mailto: spansys.consulting@gmail.com",
+        "linkedin": "www.linkedin.com/in/jennifer-oudry"
+    },
+
+    "footer":{
+        "legalnotice":"Legal notice",
+        "policy":"Privacy policy",
+        "copy":"© 2026 SPAN. All rights reserved. Reproduction prohibited without authorization."
+     },
+
+    "legalnotice":{
+        "title": "Legal notice",
+        "publisher_part1a": "This website is published by ", 
+        "publisher_part1b": "span.",
+        "contact": "Contact: span-consulting@gmail.com",
+        "owner_part1a": "Website owner: ",
+        "owner_part1b": "span",
+        "provider": "Hosting provider: GitHub Pages",
+        "copy": "All content on this website (text, images, icons, graphics, logo) is protected by copyright unless otherwise stated."
+    },
+
+    "policy":{
+        "title": "Privacy policy",
+        "text_part1": "This website does not collect, store, or process any personal data from its visitors. It does not use contact forms, analytics services, or non-essential cookies.",
+        "text_part2": "The only information that may be processed is technical data automatically generated by the hosting infrastructure (such as server logs, IP addresses, and access timestamps). This information is used solely to ensure the security, operation, and maintenance of the website and is not used to identify individual visitors."
+    }
+     
+}

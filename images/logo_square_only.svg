@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 460 420" width="460" height="420"><rect x="0" y="0" width="460" height="420" fill="none"/><g transform="translate(0.0,70.0)"><path d="M 30.61 149.84 A 220 114.4 0 0 1 79.03 102.95" fill="none" stroke="#1AA7A1" stroke-width="2" opacity="0.95"/><path d="M 79.03 102.95 A 220 114.4 0 0 1 148.77 68.36" fill="none" stroke="#1AA7A1" stroke-width="2" opacity="0.95"/><path d="M 148.77 68.36 A 220 114.4 0 0 1 230.00 55.60" fill="none" stroke="#1AA7A1" stroke-width="2" opacity="0.95"/><path d="M 230.00 55.60 A 220 114.4 0 0 1 311.23 68.36" fill="none" stroke="#1AA7A1" stroke-width="2" opacity="0.95"/><path d="M 311.23 68.36 A 220 114.4 0 0 1 380.97 102.95" fill="none" stroke="#1AA7A1" stroke-width="2" opacity="0.95"/><path d="M 380.97 102.95 A 220 114.4 0 0 1 429.39 149.84" fill="none" stroke="#1AA7A1" stroke-width="2" opacity="0.95"/><circle cx="30.61" cy="149.84" r="5.60" fill="#0B2D5C"/><circle cx="79.03" cy="102.95" r="9.71" fill="#105673"/><circle cx="148.77" cy="68.36" r="13.11" fill="#157E8A"/><circle cx="230.00" cy="55.60" r="14.40" fill="#1AA7A1"/><circle cx="311.23" cy="68.36" r="13.11" fill="#38B08D"/><circle cx="380.97" cy="102.95" r="9.71" fill="#56BA79"/><circle cx="429.39" cy="149.84" r="5.60" fill="#74C365"/>
+        <defs>
+            <linearGradient id="arcGradient"
+                            x1="0%" y1="0%"
+                            x2="100%" y2="0%">
+                <stop offset="0%" stop-color="#0B2D5C"/>
+<stop offset="50%" stop-color="#1AA7A1"/>
+<stop offset="100%" stop-color="#74C365"/>
+            </linearGradient>
+        </defs>
+        <path d="M 410.21 147.41 A 213.4 74.36 1 0 0 55.19 153.80" fill="none" stroke="url(#arcGradient)" stroke-width="4" stroke-dasharray="8,6" stroke-linecap="butt" opacity="0.85"/><text x="230.0" y="212.20" text-anchor="middle" transform="translate(230.0,212.20) scale(1,0.75) translate(-230.0,-212.20)" style="font-family:'Manrope';font-weight:400;font-size:132px;letter-spacing:-1px;" fill="#0B2D5C">span</text></g></svg>

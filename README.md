@@ -1,2 +1,4 @@
 # span.github.io
-Code used to generate span's website
+Welcome to span's website
+
+Here you will find the code used to generate span's website
